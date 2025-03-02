@@ -3,7 +3,7 @@ Under development script for The Chosen One. My first lua project so it probably
 
 ## Planned Features:
 • Auto Perm Enlighten
-• Reset Upon Freezed
+• Reset Upon Frozen
 • Anti-Glitch 
 • Toxic Block Immunity
 • Keep Inventory
