@@ -1,6 +1,16 @@
-# c00lkatt
-c00lkatt GUI collection (Under Development)
-Scripts for my cringey alter ego c00lkatt
+# c00lkatt GUI
+Under development script for The Chosen One. My first lua project so it probably won't be amazing.
 
-## Scripts Planned:
-• The Chosen One c00lkatt GUI
+## Planned Features:
+• Auto Perm Enlighten
+• Reset Upon Freezed
+• Anti-Glitch 
+• Toxic Block Immunity
+• Keep Inventory
+• Anti-Blind/Blur
+• Anti-GameFly
+• Steal Btools
+• Tp to Spawn
+• Manual Disable GameFly
+• Reset
+• Execute IY
